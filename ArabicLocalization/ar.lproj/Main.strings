@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ci4-I4-z7E"; */
+"Ci4-I4-z7E.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FI2-I4-BLK"; */
+"FI2-I4-BLK.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Inbox"; ObjectID = "LcB-QO-M7W"; */
+"LcB-QO-M7W.title" = "Inbox";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "Nmg-dS-lVh"; */
+"Nmg-dS-lVh.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Nmg-dS-lVh"; */
+"Nmg-dS-lVh.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Whk-Hr-Mug"; */
+"Whk-Hr-Mug.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "iBI-5y-Wnq"; */
+"iBI-5y-Wnq.title" = "Settings";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "r5v-WT-j4j"; */
+"r5v-WT-j4j.title" = "Home";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vIm-23-w3G"; */
+"vIm-23-w3G.text" = "Label";
